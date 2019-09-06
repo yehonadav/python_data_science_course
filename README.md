@@ -1,3 +1,7 @@
+[![open issues](https://img.shields.io/github/issues/yehonadav/python_course)](https://github/issues-raw/yehonadav/python_data_science_course)
+![GitHub repo size](https://img.shields.io/github/repo-size/yehonadav/python_data_science_course)
+
+
 Course Outline:  
 ===============
 
